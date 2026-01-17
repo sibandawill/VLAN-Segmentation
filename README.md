@@ -9,7 +9,7 @@ This homelab is designed to practice VLAN configuration.
 - VLANs
 - Broadcast domains
 - Switch port configuration
-- Router-on-a-stick
+- Router-on-a-stick implementation
 
 ## Network Summary
 - Router: Cisco ISR 2911
