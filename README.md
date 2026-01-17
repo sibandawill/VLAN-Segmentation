@@ -11,6 +11,6 @@ This homelab is designed to practice VLAN configuration.
 - Switch port configuration
 
 ## Network Summary
-- Router: Cisco ISR 4331
-- Switch: Cisco Catalyst 2960
-- Clients: Five PCs
+- Router: Cisco ISR 2911
+- 2 Switches: Cisco Catalyst 2960
+- Clients: Eight PCs
