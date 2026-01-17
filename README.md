@@ -1,2 +1,16 @@
 # VLAN-Segmentation
-A virtual Cisco Packet Tracer Lab where a network is logically separated into multiple networks for security.
+
+
+
+## Purpose
+This homelab is designed to practice VLAN configuration.
+
+## Goals
+- VLANs
+- Broadcast domains
+- Switch port configuration
+
+## Network Summary
+- Router: Cisco ISR 4331
+- Switch: Cisco Catalyst 2960
+- Clients: Five PCs
